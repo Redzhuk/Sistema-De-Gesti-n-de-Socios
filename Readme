@@ -1,1 +1,22 @@
 Archivo Readme
+
+Título y descripción breve del proyecto.
+Ejemplo: "Sistema de gestión de socios para un club de escalada."
+
+Requisitos previos (qué necesito instalar antes).
+Ejemplo: Node.js, Python, Docker, etc.
+
+Instrucciones de instalación (cómo preparar el entorno local).
+Ejemplo: npm install para dependencias del frontend.
+
+Instrucciones para levantar localmente el proyecto (cómo ejecutar backend y frontend).
+Ejemplo:
+Backend → npm run dev → corre en http://localhost:4000
+Frontend → npm start → corre en http://localhost:3000
+
+Uso básico (cómo interactuar con la app una vez que funciona).
+Ejemplo: “Ingresar al formulario y registrar un socio nuevo.”
+
+Estructura del proyecto (breve explicación de carpetas y archivos importantes).
+Contribución (si otros van a colaborar, cómo hacerlo).
+Licencia (si aplica).
